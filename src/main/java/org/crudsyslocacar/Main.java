@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-public class MainApp extends Application {
+public class Main extends Application {
     private String pathMainApp = "C:\\Users\\Unifan\\Downloads\\crud-syslocacar\\src\\main\\java\\org\\crudsyslocacar\\view\\MainView.fxml";
     @Override
     public void start(Stage stage) throws IOException {

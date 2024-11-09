@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51feacb-40a6-4dcc-98ba-251c8ef352ff" name="Changes" comment="crud" />
+    <list default="true" id="f51feacb-40a6-4dcc-98ba-251c8ef352ff" name="Changes" comment="crud">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/MainModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/entity/ContratoLocacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/entity/Manutencao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/entity/Marca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/entity/Modelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/entity/Ocorrencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/entity/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/model/entity/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/crudsyslocacar/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -63,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731107859086</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="crud">
+      <created>1731108732720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731108732720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
